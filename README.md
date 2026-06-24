@@ -133,7 +133,6 @@ Personal-Journal-Manager/
 ├── README.md
 ├── FT1.png
 ├── FT2.png
-├── FT3.png
 └── DemoVideo.mp4
 ```
 
@@ -149,9 +148,6 @@ Personal-Journal-Manager/
 
 ![Output 2](FT2.png)
 
-### Output 3
-
-![Output 3](FT3.png)
 
 ---
 
