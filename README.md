@@ -155,7 +155,9 @@ Personal-Journal-Manager/
 
 Watch the complete project demonstration here:
 
-[▶ Watch Demo Video][https://drive.google.com/file/d/1wDq5vrSqPXqrSkUraquRwhPMNmfdmz3M/view]
+[▶ Watch Demo Video](https://drive.google.com/file/d/1wDq5vrSqPXqrSkUraquRwhPMNmfdmz3M/view)
+
+
 ---
 
 ## Author
